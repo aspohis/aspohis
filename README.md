@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Estou estudando com o Alura e uso esse espaço para compartilhar meus projetos
 <!--
 **aspohis/aspohis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
